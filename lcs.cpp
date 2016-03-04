@@ -1,3 +1,4 @@
+// Program to find the longest common substring of strings A and B
 #include <cmath>
 #include <cstdio>
 #include <vector>
